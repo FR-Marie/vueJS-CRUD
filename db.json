@@ -1,0 +1,37 @@
+{
+  "produits": [
+  {
+    "id": 1,
+    "categorie": "livres",
+    "genre": "Fantasy",
+    "auteur": "Robin HOBB",
+    "nom": "L'assassin Royal t1",
+    "image": "src/assets/livres/assassin-royal-T1.png",
+    "description": "",
+    "prix": 7.50,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "categorie": "livres",
+    "genre": "Fantasy",
+    "auteur": "Robin HOBB",
+    "nom": "L'assassin Royal t2",
+    "image": "src/assets/livres/assassin-royal-T2.png",
+    "description": "",
+    "prix": 8.20,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "categorie": "livres",
+    "genre": "Fantasy",
+    "auteur": "Robin HOBB",
+    "nom": "L'assassin Royal t3",
+    "image": "src/assets/livres/assassin-royal-T3.png",
+    "description": "",
+    "prix": 9.99,
+    "stock": true
+  }
+  ]
+}
