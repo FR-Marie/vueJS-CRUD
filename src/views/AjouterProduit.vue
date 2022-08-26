@@ -1,10 +1,16 @@
 <template>
-    
+    <div>
+        <AjouterProduitComponent></AjouterProduitComponent>
+    </div>
+
 </template>
 
 <script>
+    import AjouterProduitComponent from "@/components/AjouterProduitComponent";
+
     export default {
-        name: "AjouterLivre"
+        name: "AjouterProduit",
+        components: {AjouterProduitComponent}
     }
 </script>
 

@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h2 class="shadow-lg bg-light text-success">ACCUEIL</h2>
+        <h2 class="shadow-lg text-success">ACCUEIL</h2>
     </div>
 </template>
 

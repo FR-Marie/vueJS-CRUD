@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Accueil from "@/views/Accueil";
 import Produits from "@/views/Produits";
+import AjouterProduit from "@/views/AjouterProduit";
 
 Vue.use(VueRouter)
 
@@ -25,7 +26,7 @@ const routes = [
   {
     path: '/ajouter-produits',
     name: 'AjouterProduit',
-    component: Accueil
+    component: AjouterProduit
   },
   {
     path: '/produits/:id',
